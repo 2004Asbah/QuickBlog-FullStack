@@ -4,6 +4,12 @@
 
 🌐 **Live Demo**: [http://13.204.75.144](http://13.204.75.144)
 
+🔑 **Admin Panel Access**: [http://13.204.75.144/admin](http://13.204.75.144/admin)
+| | |
+|:--|:--|
+| **Email** | `admin@example.com` |
+| **Password** | `greatstack` |
+
 ---
 
 ## 📸 Screenshots
